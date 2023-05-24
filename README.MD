@@ -4,4 +4,6 @@ this is my newbie tutorial creating repository on Github
 printing sesuatu di dalam readme file.
 plup plup plup
 aa
-delete
+
+
+lasttt
